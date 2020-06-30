@@ -1,3 +1,7 @@
 name: Frank Armoton
-markdown: kramdown
+
 permalink: /blog/:year/:month/:day/:title
+
+markdown: kramdown
+
+theme: jekyll-theme-merlot
