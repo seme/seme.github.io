@@ -1,7 +1,14 @@
 
 blockquote {
-    border-left: 8px solid #fafafa;
-    padding: 1rem;
+    /* class="w3-panel w3-leftbar w3-light-grey" */
+    padding:0.01em 16px;
+    margin-top:16px;
+    margin-bottom:16px;
+
+    border-left:6px solid #ccc!important;
+
+    color:#000!important;
+    background-color:#87CEEB!important;
 }
 
 code {
@@ -28,8 +35,8 @@ code {
     background: #007bb5;
     color: white;
   }
-
+/*
   .fa-envelope {
     background: #007bb5;
     color: white;
-  }
+  }*/
