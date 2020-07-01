@@ -15,7 +15,7 @@ code {
     background-color: #fafafa;
 }
 
-div.bg {
+.bg {
     width: 100%;
     height: 300px;
     background-image: url('/assets/architect.jpg');
