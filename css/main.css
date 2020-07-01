@@ -15,24 +15,3 @@ code {
     background-color: #fafafa;
 }
 
-/* Style all font awesome icons */
-.fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 30px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
-  }
-  
-  /* Add a hover effect if you want */
-  .fa:hover {
-    opacity: 0.7;
-  }
-  
-  /* Set a specific color for each brand */
- 
-  .fa-envelope {
-    background: #007bb5;
-    color: white;
-  }
