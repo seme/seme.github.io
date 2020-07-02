@@ -1,18 +1,19 @@
 
 blockquote {
-    /* class="w3-panel w3-leftbar .w3-theme-l5" */
     padding:0.01em 16px;
     margin-top:16px;
     margin-bottom:16px;
-
-    border-left:6px solid #ccc!important;
-
+    border-left:6px solid #fff!important;
     color:#000!important;
-    background-color:#f8fcfe!important;
+    background-color:#f1f1f1!important;
 }
 
 code {
     background-color: #fafafa;
+}
+
+img {
+    border:1px solid #ccc!important;
 }
 
 .bg {

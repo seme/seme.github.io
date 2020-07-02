@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Markdownin taikaa"
+title: Markdownin taikaa
 date: 2020-06-30
 ---
 
