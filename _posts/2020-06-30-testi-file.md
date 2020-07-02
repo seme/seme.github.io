@@ -14,6 +14,7 @@ Kuinka saadaan koodi mukaan? Ymmärtääkseni näin:
     loop forever:
         i++;
     end;
+    xxxxxxxxx = sdfnsjdfsnfkjsndfjnsdfknskdfnskfnksnfkjs + 23498372497294792374 + 98274927947293479238749274927349;
 
 
 # kuvat
