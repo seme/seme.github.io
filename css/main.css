@@ -8,16 +8,6 @@ blockquote {
     background-color:#f1f1f1!important;
 }
 
-code {
-    font-family: Monaco, monospace;
-    font-size: $base-font-size;
-    line-height: 100%;
-    background-color: #eee;
-    padding: 0.2em;
-    letter-spacing: -0.05em;
-    word-break: normal;
-}
-
 img {
     max-width: 100%;
     height: auto;
