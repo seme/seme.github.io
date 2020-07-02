@@ -11,6 +11,10 @@ Vai näyttääkö se vaan hassulta?
 Kuinka saadaan koodi mukaan? Ymmärtääkseni näin:
 
     x = y +5;
+    loop forever:
+        i++;
+    end;
+
 
 # kuvat
 
