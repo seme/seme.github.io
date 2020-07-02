@@ -16,7 +16,7 @@ Kuinka saadaan koodi mukaan? Ymmärtääkseni näin:
 
 Ensin esitetään kuva:
 
-![Itse piirretty kuva](/assets/kuva.jpg)
+![Itse piirretty kuva](/assets/testimage.jpg)
 
 Ja sitä sitten selitetään erillaisilla jutuilla:
 
