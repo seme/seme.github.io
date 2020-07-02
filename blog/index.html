@@ -1,12 +1,16 @@
 ---
 layout: default
-title: Hank Quinlan's Blog
+title: Blogikirjoitukset
 ---
-	<h1>{{ page.title }}</h1>
-	<ul class="posts">
 
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
+<div class="w3-container w3-padding-32" >
+    <h1 class="w3-border-bottom w3-border-light-grey w3-padding-16">{{ page.title }}</h1>
+    <ul class="w3-ul w3-hoverable w3-padding-small">
+
+        {% for post in site.posts %}
+          <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        {% endfor %}
     </ul>
     
+</div>
+
