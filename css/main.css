@@ -18,6 +18,16 @@ code {
 .bg {
     width: 100%;
     height: 300px;
-    background-image: url('/assets/architect.jpg');
+    background-image: url('/assets/architect-small.jpg');
     background-size: cover;
 }
+
+/* For width 600px and larger: */
+@media only screen and (min-device-width: 600px) {
+    .bg {
+        width: 100%;
+        height: 300px;
+        background-image: url('/assets/architect.jpg');
+        background-size: cover;
+    }
+  }
