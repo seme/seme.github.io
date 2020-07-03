@@ -4,12 +4,12 @@ layout: default
 
 <div class="w3-auto w3-content" style="max-width:600px">
     <div class="w3-container w3-padding-32" >
-        <h1 class="w3-padding-16 w3-text-grey w3-font">{{ page.title }}</h1>
-        <p class="w3-border-bottom w3-border-light-grey w3-padding-16 w3-text-grey">{{ page.date | date: "%d.%m.%Y" }}</p>
-        <div>
-            {{ content }}
-        </div>
-</div>
+        <h1 class="w3-padding w3-text-grey w3-font">{{ page.title }}</h1>
+        <p class="w3-border-bottom w3-border-light-grey w3-padding w3-text-grey">{{ page.date | date: "%d.%m.%Y" }}</p>
+    </div>
+    <div>
+        {{ content }}
+    </div>
 </div>
 
 
