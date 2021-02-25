@@ -45,7 +45,7 @@
 
 				console.log({ value });
 				const url = 'https://script.google.com/macros/s/AKfycby8UhpQXShz4hF0IAwPdN3oJslx1dQlPT_AVsYZJpUUgGEVJpTGEkJX/exec';
-				const response = await fetch(url, {
+				const response = fetch(url, {
 					method: 'POST', // *GET, POST, PUT, DELETE, etc.
 			    		//mode: 'cors', // no-cors, *cors, same-origin
 			    		//credentials: 'same-origin', // include, *same-origin, omit
