@@ -1,6 +1,0 @@
-name: Frank Armoton
-
-permalink: /blog/:year/:month/:day/:title
-
-markdown: kramdown
-
